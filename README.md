@@ -1,6 +1,7 @@
 ### Sentiment Analysis of Tweets
 
 **Project Summary**
+
 This project explores the use of three-class sentiment classification applied to Twitter data.  
 The goal is to automatically determine the sentiment expressed in a tweet - *positive*, *negative*, or *neutral* - using Natural Language Processing (NLP) and Machine Learning techniques.  
 
